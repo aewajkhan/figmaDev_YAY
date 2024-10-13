@@ -537,10 +537,36 @@ input[type="radio"]:checked {
   .add-to-cart {
     margin-left: 55px;
   }
-  .pumper-last p {
-   
-    display: flex;
-    justify-content: end;
-    align-items: end;
+
+  .pumper-last{
+    margin-right: -20px;
   }
+
+  .down-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-right: -2px;
+   
+  }
+  
+  
+  .total {
+    width: 124px;
+   
+    /* text-align: left; */
+    color: #000000;
+  }
+  
+  .total span {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.94px;
+    text-align: left;
+  }
+  
+  
 }
