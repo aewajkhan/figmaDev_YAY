@@ -39,7 +39,7 @@ body {
 
   width: 91.65px;
   margin-right: 10px;
-  height: 1px;
+  height: 0px;
   background-color: #c8c8c8;
 }
 
@@ -47,7 +47,7 @@ body {
   border: 1.5px solid #c8c8c8;
   width: 96.63px;
   margin-left: 10px;
-  height: 1px;
+  height: 0px;
   background-color: #c8c8c8;
 }
 
