@@ -464,16 +464,16 @@ input[type="radio"]:checked {
   
 
   .dash-headline {
-    border: 1.5px solid #c8c8c8;
-    width: 90px;
+    border: 0.9px solid #c8c8c8;
+    width: 91.65px;
     margin-right: 10px;
     height: 1px;
     background-color: #c8c8c8;
   }
 
   .dash-headline-right {
-    border: 1.5px solid #c8c8c8;
-    width: 90px;
+    border: 0.9px solid #c8c8c8;
+    width: 96.63px;
     margin-left: 10px;
     height: 1px;
     background-color: #c8c8c8;
