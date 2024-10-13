@@ -524,22 +524,21 @@ input[type="radio"]:checked {
 
 @media (max-width: 465px) {
   .headline {
-    margin-left: 10px;
+    margin-left: 33px;
   }
   .dash-headline {
-    width: 17%;
+    width: 88px;
   }
   .dash-headline-right {
-    width: 17%;
+    width: 88px;
     margin-right: 5px;
   }
 
   .add-to-cart {
-    margin-left: 25px;
+    margin-left: 55px;
   }
   .pumper-last p {
-    /* margin-left: 110px; */
-    /* border: 1px solid red; */
+   
     display: flex;
     justify-content: end;
     align-items: end;
